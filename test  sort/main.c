@@ -9,7 +9,9 @@
 #include <stdio.h>
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
+    // insert code here...]
+    FILE *fp;
+    fp=fopen("//Users//a20161104609//Desktop//test sort//sort.txt","w");
     int a[10];
     int i,j,temp;
     printf("请输入10个整数：");
@@ -31,20 +33,12 @@ int main(int argc, const char * argv[]) {
         }
     }
     printf ("请输入顺序：");
+    
     for(i=0;i<10;i++)
     {
-        printf("%d",a[i]);
+        printf("%d\n",a[i]);
+        fprintf(fp, "%d",a[i]);
     }
-    printf("\n");
-    FILE *fp1;
-    fp1=fopen("sort.txt","w+");
-
-        for(i=0;i<11;i++)
-        {
-            scanf("%d",&a[i]);
-            fputc(int a[i],FILE *fp1);
-        }
-        fclose(fp1);
-    
+    fclose(fp);
         return 0;
 }
