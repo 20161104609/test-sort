@@ -11,13 +11,16 @@
 int main(int argc, const char * argv[]) {
     // insert code here...]
     FILE *fp;
-    fp=fopen("//Users//a20161104609//Desktop//test sort//sort.txt","w");
+    FILE *fp1;
+    fp=fopen("//Users//a20161104609//Desktop//test\\ sort//sort.txt","w");
+    fp1=fopen("//Users//a20161104609//Desktop//test\\ sort//intput.txt","r");
     int a[10];
     int i,j,temp;
     printf("请输入10个整数：");
     for(i=0;i<10;i++)
     {
-        scanf("%d",&a[i]);
+       
+       fscanf(fp1,"%d",&a[i]);
     }
     for(i=0;i<9;i++)
     {
@@ -36,7 +39,7 @@ int main(int argc, const char * argv[]) {
     
     for(i=0;i<10;i++)
     {
-        printf("%d\n",a[i]);
+        printf("%d ",a[i]);
         fprintf(fp, "%d",a[i]);
     }
     fclose(fp);

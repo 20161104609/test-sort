@@ -26,6 +26,7 @@
 		ED7E5BB81EEE37D5009DB195 /* test  sort */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "test  sort"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED7E5BBB1EEE37D5009DB195 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		EDBEE20D1EEF6EF4001A044E /* sort */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = sort; sourceTree = SOURCE_ROOT; };
+		EDDC340E1EF266C000C779EB /* input */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = input; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +43,7 @@
 		ED7E5BAF1EEE37D5009DB195 = {
 			isa = PBXGroup;
 			children = (
+				EDDC340E1EF266C000C779EB /* input */,
 				ED7E5BBA1EEE37D5009DB195 /* test  sort */,
 				ED7E5BB91EEE37D5009DB195 /* Products */,
 			);
