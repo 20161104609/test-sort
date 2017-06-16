@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "ED7E5BB71EEE37D5009DB195"
-               BuildableName = "test  sort"
-               BlueprintName = "test  sort"
-               ReferencedContainer = "container:test  sort.xcodeproj">
+               BlueprintIdentifier = "EDDC343D1EF2743000C779EB"
+               BuildableName = "test sort"
+               BlueprintName = "test sort"
+               ReferencedContainer = "container:test sort.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "ED7E5BB71EEE37D5009DB195"
-            BuildableName = "test  sort"
-            BlueprintName = "test  sort"
-            ReferencedContainer = "container:test  sort.xcodeproj">
+            BlueprintIdentifier = "EDDC343D1EF2743000C779EB"
+            BuildableName = "test sort"
+            BlueprintName = "test sort"
+            ReferencedContainer = "container:test sort.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "ED7E5BB71EEE37D5009DB195"
-            BuildableName = "test  sort"
-            BlueprintName = "test  sort"
-            ReferencedContainer = "container:test  sort.xcodeproj">
+            BlueprintIdentifier = "EDDC343D1EF2743000C779EB"
+            BuildableName = "test sort"
+            BlueprintName = "test sort"
+            ReferencedContainer = "container:test sort.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "ED7E5BB71EEE37D5009DB195"
-            BuildableName = "test  sort"
-            BlueprintName = "test  sort"
-            ReferencedContainer = "container:test  sort.xcodeproj">
+            BlueprintIdentifier = "EDDC343D1EF2743000C779EB"
+            BuildableName = "test sort"
+            BlueprintName = "test sort"
+            ReferencedContainer = "container:test sort.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
